@@ -1,4 +1,4 @@
-# Sorting-list
+# Sorting-List-Project
 ## Setup & Installtion
 
 Make sure you have the latest version of Python installed.
